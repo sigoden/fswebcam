@@ -1,6 +1,6 @@
-# [node-webcam](https://github.com/sigoden/fswebcamera)
+# [fswebcam](https://github.com/sigoden/fswebcamera)
 
-manupulate uvc cameras on linux (mounted on /dev/video*), powerd by [fswebcam](https://github.com/fsphil/fswebcam).
+Manupulate uvc cameras on linux (mounted on /dev/video*), powerd by [fswebcam](https://github.com/fsphil/fswebcam).
 
 # Install
 
