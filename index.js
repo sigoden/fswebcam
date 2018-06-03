@@ -10,6 +10,7 @@ var OPTIONS = {
   background: 'boolean',
   pid: 'string',
   log: 'string',
+  device: 'string',
   input: 'string',
   tuner: 'string',
   frequency: 'number',
