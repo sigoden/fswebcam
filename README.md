@@ -19,7 +19,7 @@ sudo apt-get install fswebcam
 
 ``` javascript
 //Available in nodejs
-var Camera = require( "@sigodenh/fswebcam" );
+var Camera = require( "@sigodenjs/fswebcam" );
 
 //Return type with base 64 image
 var opts = {

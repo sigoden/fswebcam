@@ -1,5 +1,5 @@
 {
-  "name": "@sigodenh/fswebcam",
+  "name": "@sigodenjs/fswebcam",
   "version": "0.1.4",
   "description": "wrap linux tool fswebcam to manipulate cameras",
   "main": "index.js",
